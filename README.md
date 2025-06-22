@@ -2,67 +2,66 @@
 
 <p align="center">
   Verified credentials in AI, Data Science, Visualization, and Databases.<br>
-  Proudly showcasing continuous learning and skill development.
+  Showcasing continuous learning and project-based achievements.
 </p>
 
 ---
 
 ## 🎓 Overview
 
-This repository contains certificates earned through hands-on training, simulations, and real-world data projects. Each certificate is organized by domain in its own folder and linked below for easy viewing and download.
+This repository contains certifications earned through hands-on projects and simulations. Each certificate is organized by domain in its own folder and directly linked below for instant viewing and download.
 
 ---
 
 ## 🧠 IBM Certifications
 
-| Certificate | Link |
-|------------|------|
-| ✅ AI Ladder: A Framework for Deploying AI | [📄 View PDF](./IBM/AI_Ladder_Deployment.pdf) |
-| ✅ Artificial Intelligence Fundamentals (Credly) | [📄 View PDF](./IBM/AI_Fundamentals_Credly.pdf) |
+| Certificate | Direct Link |
+|------------|-------------|
+| ✅ AI Ladder: A Framework for Deploying AI | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/IBM/AI_Ladder_Deployment.pdf) |
+| ✅ Artificial Intelligence Fundamentals (Credly) | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/IBM/AI_Fundamentals_Credly.pdf) |
 
 ---
 
 ## 📊 TATA Certificate
 
-| Certificate | Link |
-|------------|------|
-| ✅ Data Visualisation: Empowering Business | [📄 View PDF](./TATA/Data_Visualization_Forage.pdf) |
+| Certificate | Direct Link |
+|------------|-------------|
+| ✅ Data Visualisation: Empowering Business | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/TATA/Data_Visualization_Forage.pdf) |
 
 ---
 
 ## ✈️ British Airways Certificate
 
-| Certificate | Link |
-|------------|------|
-| ✅ Data Science Job Simulation | [📄 View PDF](./British_Airways/Data_Science_Simulation.pdf) |
+| Certificate | Direct Link |
+|------------|-------------|
+| ✅ Data Science Job Simulation | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/British_Airways/Data_Science_Simulation.pdf) |
 
 ---
 
 ## 🛢️ MongoDB Certificate
 
-| Certificate | Link |
-|------------|------|
-| ✅ MongoDB for SQL Experts | [📄 View PDF](./MongoDB/MongoDB_SQL_Experts.pdf) |
+| Certificate | Direct Link |
+|------------|-------------|
+| ✅ MongoDB for SQL Experts | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/MongoDB/MongoDB_SQL_Experts.pdf) |
 
 ---
 
 ## 🤖 Kaggle Certificate
 
-| Certificate | Link |
-|------------|------|
-| ✅ Intro to Machine Learning | [🖼️ View Image](./Kaggle/Intro_to_Machine_Learning.png) |
+| Certificate | Direct Link |
+|------------|-------------|
+| ✅ Intro to Machine Learning | [🖼️ View Image](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/Kaggle/Intro_to_Machine_Learning.png) |
 
 ---
 
-## 🔗 Usage & Access
+## 🔗 Usage & Sharing
 
-- Click any link above to **view or download** the certificate.
-- Certificates are stored in subfolders (e.g., `IBM/`, `TATA/`, etc.)
-- This portfolio is public and can be shared with recruiters, hiring managers, and collaborators.
+- Click any link above to **view or download** the certificate instantly
+- All files are hosted publicly on GitHub
+- Share this repository link in your **résumé**, **LinkedIn**, or **job applications**
 
 ---
 
 ## 🙌 Let's Connect
 
-If you’re viewing this as a recruiter or collaborator and want to learn more about my projects or skills, feel free to connect with me!
-
+Feel free to explore my GitHub or reach out for collaboration or hiring opportunities.
