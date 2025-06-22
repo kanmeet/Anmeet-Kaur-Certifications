@@ -18,7 +18,7 @@ This repository contains certifications earned through hands-on projects, simula
 | Certificate | Direct Link |
 |------------|-------------|
 | ✅ AI Ladder: A Framework for Deploying AI | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/IBM/AI_Ladder_Deployment.pdf) |
-| ✅ Artificial Intelligence Fundamentals (Credly) | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/IBM/AI_FundamentalsCredly.pdf) |
+| ✅ Artificial Intelligence Fundamentals (Credly) | [📄 View PDF](https://raw.githubusercontent.com/kanmeet/Anmeet-Kaur-Certifications/main/IBM/Achievement Certificate IBM.pdf) |
 
 ---
 
