@@ -1,34 +1,68 @@
-# 🎓 Anmeet Kaur - Certifications
+<h1 align="center">📚 Anmeet Kaur - Professional Certifications Portfolio</h1>
 
-This repository showcases my verified certifications across domains such as AI, Data Science, Visualization, and Databases.
+<p align="center">
+  Verified credentials in AI, Data Science, Visualization, and Databases.<br>
+  Proudly showcasing continuous learning and skill development.
+</p>
 
 ---
 
-## 📘 IBM Certificates
+## 🎓 Overview
 
-- 📜 [AI Ladder: A Framework for Deploying AI](./IBM/AI_Ladder_Deployment.pdf)
-- 📜 [Artificial Intelligence Fundamentals (Credly)](./IBM/AI_Fundamentals_Credly.pdf)
+This repository contains certificates earned through hands-on training, simulations, and real-world data projects. Each certificate is organized by domain in its own folder and linked below for easy viewing and download.
+
+---
+
+## 🧠 IBM Certifications
+
+| Certificate | Link |
+|------------|------|
+| ✅ AI Ladder: A Framework for Deploying AI | [📄 View PDF](./IBM/AI_Ladder_Deployment.pdf) |
+| ✅ Artificial Intelligence Fundamentals (Credly) | [📄 View PDF](./IBM/AI_Fundamentals_Credly.pdf) |
 
 ---
 
 ## 📊 TATA Certificate
 
-- 📜 [Data Visualisation: Empowering Business](./TATA/Data_Visualization_Forage.pdf)
+| Certificate | Link |
+|------------|------|
+| ✅ Data Visualisation: Empowering Business | [📄 View PDF](./TATA/Data_Visualization_Forage.pdf) |
 
 ---
 
 ## ✈️ British Airways Certificate
 
-- 📜 [Data Science Job Simulation](./British_Airways/Data_Science_Simulation.pdf)
+| Certificate | Link |
+|------------|------|
+| ✅ Data Science Job Simulation | [📄 View PDF](./British_Airways/Data_Science_Simulation.pdf) |
 
 ---
 
 ## 🛢️ MongoDB Certificate
 
-- 📜 [MongoDB for SQL Experts](./MongoDB/MongoDB_SQL_Experts.pdf)
+| Certificate | Link |
+|------------|------|
+| ✅ MongoDB for SQL Experts | [📄 View PDF](./MongoDB/MongoDB_SQL_Experts.pdf) |
 
 ---
 
 ## 🤖 Kaggle Certificate
 
-- 📜 [Intro to Machine Learning](./Kaggle/Intro_to_Machine_Learning.png)
+| Certificate | Link |
+|------------|------|
+| ✅ Intro to Machine Learning | [🖼️ View Image](./Kaggle/Intro_to_Machine_Learning.png) |
+
+---
+
+## 🔗 Usage & Access
+
+- Click any link above to **view or download** the certificate.
+- Certificates are stored in subfolders (e.g., `IBM/`, `TATA/`, etc.)
+- This portfolio is public and can be shared with recruiters, hiring managers, and collaborators.
+
+---
+
+## 🙌 Let's Connect
+
+If you’re viewing this as a recruiter or collaborator and want to learn more about my projects or skills, feel free to connect with me!
+
